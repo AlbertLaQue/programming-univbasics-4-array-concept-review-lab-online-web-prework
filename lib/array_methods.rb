@@ -11,7 +11,7 @@ end
 
 #Second test for the lab 
 def find_max_value(array)
-x = [0]
+x = array[0]
 end
 
 def find_min_value(array)
