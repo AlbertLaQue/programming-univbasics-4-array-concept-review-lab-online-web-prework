@@ -9,6 +9,7 @@ def find_element_index(array, value_to_find)
   nil
 end
 
+#Second test for the lab 
 def find_max_value(array)
   # Add your solution here
 end
